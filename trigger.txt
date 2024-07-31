@@ -1,1 +1,1 @@
-nginx:1.26-alpine registry.cn-hangzhou.aliyuncs.com/lwk2611251022/1744892805/nginx:1.26
+nginx:1.26-alpine registry.cn-zhangjiakou.aliyuncs.com/1744892805/nginx:1.26
