@@ -1,1 +1,1 @@
-nginx:1.24.0 registry.cn-hangzhou.aliyuncs.com/lwk2611251022/1744892805/nginx:1.24.0
+nginx:1.26.0 registry.cn-hangzhou.aliyuncs.com/lwk2611251022/1744892805/nginx:1.26.0
