@@ -1,1 +1,1 @@
-nginx:1.24.0-alpine registry.cn-hangzhou.aliyuncs.com/lwk2611251022/nginx:1.24
+mysql:5.7 registry.cn-hangzhou.aliyuncs.com/lwk2611251022/mysql:5.7
