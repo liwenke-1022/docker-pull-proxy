@@ -1,1 +1,1 @@
-mysql:5.7 registry.cn-hangzhou.aliyuncs.com/lwk2611251022/mysql:5.7
+tomcat:jre21-temurin-noble registry.cn-hangzhou.aliyuncs.com/lwk2611251022/tomcat:jre21
