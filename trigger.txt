@@ -1,2 +1,2 @@
-lmenezes/cerebro:0.9.4 registry.cn-hangzhou.aliyuncs.com/lwk2611251022/lmenezes/cerebro:0.9.4
+lmenezes/cerebro:latest registry.cn-hangzhou.aliyuncs.com/lwk2611251022/lmenezes/cerebro:latest
 
