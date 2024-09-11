@@ -1,1 +1,1 @@
-elasticsearch:8.15.1-temurin-noble registry.cn-hangzhou.aliyuncs.com/lwk2611251022/elasticsearch:8.15.1
+elasticsearch:7.17.24-temurin-noble registry.cn-hangzhou.aliyuncs.com/lwk2611251022/elasticsearch:7.17.24
