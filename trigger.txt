@@ -1,2 +1,2 @@
-elasticsearch:8.15.0 registry.cn-hangzhou.aliyuncs.com/lwk2611251022/elasticsearch:8.15.0
+nginx:stable-alpine-perl registry.cn-hangzhou.aliyuncs.com/lwk2611251022/nginx:stable-alpine-perl
 
