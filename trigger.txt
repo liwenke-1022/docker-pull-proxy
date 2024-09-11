@@ -1,2 +1,2 @@
-kibana:7.17.0 registry.cn-hangzhou.aliyuncs.com/lwk2611251022/kibana:7.17.0
+kibana:7.17.24 registry.cn-hangzhou.aliyuncs.com/lwk2611251022/kibana:7.17.24
 
