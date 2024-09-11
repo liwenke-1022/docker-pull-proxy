@@ -1,2 +1,2 @@
-lmenezes/cerebro:latest registry.cn-hangzhou.aliyuncs.com/lwk2611251022/lmenezes/cerebro:latest
+portainer/portainer:latest registry.cn-hangzhou.aliyuncs.com/lwk2611251022/portainer/portainer:latest
 
