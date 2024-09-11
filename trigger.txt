@@ -1,2 +1,2 @@
-wurstmeister/kafka:2.13-2.7.0 registry.cn-hangzhou.aliyuncs.com/lwk2611251022/ wurstmeister/kafka:2.13-2.7.0
+wurstmeister/kafka:latest registry.cn-hangzhou.aliyuncs.com/lwk2611251022/wurstmeister/kafka:latest
 
