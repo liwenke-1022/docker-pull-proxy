@@ -1,2 +1,2 @@
-zookeeper:3.7.2 registry.cn-hangzhou.aliyuncs.com/lwk2611251022/zookeeper:3.7.2
+elasticsearch:8.15.0 registry.cn-hangzhou.aliyuncs.com/lwk2611251022/elasticsearch:8.15.0
 
