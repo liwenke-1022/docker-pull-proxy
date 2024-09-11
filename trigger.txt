@@ -1,1 +1,1 @@
-elasticsearch:8.13.3temurin-noble registry.cn-hangzhou.aliyuncs.com/lwk2611251022/elasticsearch:8.13.3
+nginx:mainline-alpine-perltemurin-noble registry.cn-hangzhou.aliyuncs.com/lwk2611251022/nginx:mainline-alpine-perl
