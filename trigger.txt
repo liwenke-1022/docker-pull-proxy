@@ -1,1 +1,1 @@
-milvusdb/milvus:v2.4.12 registry.cn-hangzhou.aliyuncs.com/lwk2611251022/milvusdb_milvus:v2.4.12
+python-nodejs:python3.12-nodejs22 registry.cn-hangzhou.aliyuncs.com/lwk2611251022/python-nodejs:python3.12-nodejs22
