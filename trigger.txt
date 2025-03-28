@@ -1,1 +1,1 @@
-python-nodejs:python3.12-nodejs22 registry.cn-hangzhou.aliyuncs.com/lwk2611251022/python-nodejs:python3.12-nodejs22
+nginx:latest registry.cn-hangzhou.aliyuncs.com/lwk2611251022/nginx:latest
